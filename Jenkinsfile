@@ -30,6 +30,8 @@ pipeline {
             sh '''
                 ssh -o StrictHostKeyChecking=no jenkins@10.10.10.41 "echo SSH connection successful"
                 ssh -o StrictHostKeyChecking=no jenkins@10.10.10.41 "mkdir -p /home/jenkins/newsx"
+                ssh -o StrictHostKeyChecking=no jenkins@10.10.10.41 "pkill -f  app"
+                ssh -o StrictHostKeyChecking=no jenkins@10.10.10.41 "rm -f /home/jenkins/newsx/app"
                 scp -o StrictHostKeyChecking=no app jenkins@10.10.10.41:/home/jenkins/newsx
                 scp -o StrictHostKeyChecking=no restart-service.sh jenkins@10.10.10.41:/home/jenkins/newsx
                 ssh -o StrictHostKeyChecking=no jenkins@10.10.10.41 "cd /home/jenkins/newsx && chmod +x app restart-service.sh && ./restart-service.sh"

@@ -18,7 +18,7 @@ func RequireAuth(c *gin.Context, db *sql.DB) error {
 
 	log.Println(c)
 
-	errr := godotenv.Load("E:\\Personal Projects\\newsx_version_3\\.env")
+	errr := godotenv.Load(".env")
 	if errr != nil {
 		log.Printf("Error loading .env file: %v", errr)
 		log.Println("FAILED TO FETCH ENVIRONMENT VARIABLES")
