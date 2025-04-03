@@ -28,6 +28,7 @@ pipeline {
     steps {
         sshagent(['0ff14880-bcc6-4400-a835-a66a5a3cf0ba']) {
             sh '''
+                ssh -o StrictHostKeyChecking=no jenkins@10.10.10.41 "echo SSH connection successful"
                 ssh -o StrictHostKeyChecking=no jenkins@10.10.10.41 "pkill -f /home/jenkins/newsx/app || true"
                 ssh -o StrictHostKeyChecking=no jenkins@10.10.10.41 "mkdir -p /home/jenkins/newsx"
                 scp -o StrictHostKeyChecking=no app jenkins@10.10.10.41:/home/jenkins/newsx
