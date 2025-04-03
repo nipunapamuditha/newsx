@@ -1,6 +1,14 @@
 pipeline {
     agent any
     
+    tools {
+        go 'go' // Use the Go version matching your go.mod
+    }
+    
+    environment {
+        GO111MODULE = 'on'
+    }
+    
     stages {
         stage('Checkout') {
             steps {
@@ -10,8 +18,9 @@ pipeline {
         
         stage('Build') {
             steps {
-                sh '/usr/local/go/bin/go build -o app' // Use absolute path to Go
-                sh '/usr/local/go/bin/go test ./...'
+                // Use 'go' directly, which will use the version defined in tools
+                sh 'go build -o app'
+                sh 'go test ./...'
             }
         }
         
