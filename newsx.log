@@ -1,0 +1,482 @@
+2025/03/31 22:07:28 logging.go:18: Application Starting
+2025/03/31 22:07:28 db.go:40: Database Drivier initialized successfully
+2025/03/31 22:07:28 db.go:47: Database connection established successfully
+2025/03/31 22:10:49 logging.go:18: Application Starting
+2025/03/31 22:10:49 db.go:40: Database Drivier initialized successfully
+2025/03/31 22:10:49 db.go:47: Database connection established successfully
+2025/03/31 22:10:53 requireAuth.go:19: &{{0xc00013a000 -1 200} 0xc00011a000 0xc000142000 [] [0xd57500 0xd58440 0xff2060 0xff0f80] 3 /v1/getaudio_files 0xc0000d96c0 0xc000140000 0xc000140018 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/03/31 22:10:53 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/03/31 22:14:36 logging.go:18: Application Starting
+2025/03/31 22:14:36 db.go:40: Database Drivier initialized successfully
+2025/03/31 22:14:36 db.go:47: Database connection established successfully
+2025/03/31 22:14:54 requireAuth.go:19: &{{0xc0000be000 -1 200} 0xc0000a6000 0xc0000c2000 [] [0x7a7500 0x7a8440 0xa42060 0xa410a0] 3 /v1/Generate_now 0xc000165860 0xc000008018 0xc000008030 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/03/31 22:14:54 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/03/31 22:14:57 audiogen.go:209: Article 1: Title: Marked for Assassination: Gaza Journalists on Israeli Hit List Refuse to Stop Reporting
+Link: https://www.dropsitenews.com/p/gaza-journalists-hit-list-hossam-shabat
+Published: Mon, 31 Mar 2025 19:22:34 GMT
+
+Content:
+Al Jazeera journalist Anas al-Sharif in the funeral procession of his colleague, Hossam Shabat, who was killed in an Israeli airstrike on March 24, 2024.(Photo by Ahmed Al-Arini/Anadolu via Getty Images)The day after the assassination of Palestinian journalist Hossam Shabat, the Israeli military openly celebrated his killing. A correspondent for Al Jazeera Mubasher and a contributor to Drop Site News, Shabat was killed on March 24 when the Israeli military targeted him as he was driving in his car in Beit Lahia. He was 23 years old. Earlier that day, journalist Mohamed Mansour of Palestine Today was killed, along with his wife and son, in an Israeli airstrike on his home in Khan Younis.
+
+On its official X account the following day, the Israeli military confirmed it had “eliminated” Shabat, claiming they had “exposed” his role within Hamas six months earlier, and the statement concluded with the haunting words: “Don’t let the press vest confuse you, Hossam was a terrorist.”
+
+The Israeli military was referring to its outrageous accusation, in October 2024, that Shabat and five other journalists&#8212;all of whom work for Al Jazeera&#8212;were fighters in Hamas and Palestinian Islamic Jihad. The statement also said that most of them were working in northern Gaza: an area where only a handful of journalists had remained, and where Israel had launched a concentrated extermination campaign earlier that month. At the time, Shabat and his colleagues, those who remained in the north, were on the ground, providing constant coverage to document Israeli atrocities.
+
+After Israel’s announcement, Shabat called on people to speak out using the hashtag #ProtectTheJournalists: “I plead everyone to share the reality about Journalists in order to spread awareness about the real plans of the Israeli occupation to target journalists in order to impose a media blackout. Spread the hashtag and talk about us!”
+
+Israel’s killing of journalists with impunity is nothing new. In 2023, the Committee to Protect Journalists published a report titled “Deadly Pattern,” which documented Israel’s killing of journalists over a twenty-two year period and found “a pattern of Israeli response that appears designed to evade responsibility.” In the past, Israel would often deny it was responsible or claim the journalist was tragically caught in the crossfire&#8212;an unfortunate consequence of “collateral damage.” Yet, since it began killing Palestinian journalists in Gaza on an unprecedented scale, Israel has increasingly admitted to killing journalists, justifying their murders afterwards by claiming they were not journalists at all. By backing up their claims with so-called evidence, which press watchdog groups like CPJ have found to not be credible and often outright preposterous, Israel has increasingly claimed that Palestinian journalists are militants.
+
+Shabat’s killing entails a troubling new development to Israel’s approach: they preemptively accused him and five other journalists of being terrorists prior to attacking them, effectively putting them on a hit list.
+
+Drop Site News reached out to four of the five surviving journalists on the list to ask them how Shabat’s murder affected them, and how they continue to report from Gaza under explicit threats by the Israeli military. 
+
+In what Al Jazeera said at the time was a deliberate attack by an Israeli drone strike north of Rafah in February 2024, the fifth surviving journalist on the list, Ismail Abu Omar, was wounded, along with photojournalist Ahmed Matar. Abu Omar’s right foot and some fingers on his right hand were amputated, and he was eventually evacuated outside of Gaza for treatment.
+
+Drop Site was only able to compile these responses with the help of a journalist in Gaza who asked to remain anonymous out of fear for their safety.
+
+Read Hossam Shabat’s last article and Drop Site’s statement on his murder.
+
+Continue to follow Hossam’s social media accounts on X and Instagram, where two of his close friends continue to post about Hossam and about developments in Gaza.
+
+Drop Site News is reader-supported. Consider becoming a free or paid subscriber.
+
+“We feel abandoned.”&#8212;Talal Al-Arouqi, 30, Al Jazeera Mubasher
+
+Al-Arouqi was previously injured in an Israeli attack on Nuseirat refugee camp in November 2024.
+
+After the martyrdom of Hossam Shabat, I live in constant anxiety, feeling that the next airstrike will target me. What is truly shocking is the inability of the international community and human rights organizations to stop the incitement against us&#8212;the six journalists. We feel abandoned.
+
+I feel unsafe, and I believe that all my fellow journalists outside the list feel unsafe, too. The Israeli army has killed more than 200 journalists without justification or prior warning. How can the Israeli army repeatedly target journalists without facing any consequences? Where is the international accountability?
+
+Despite all the dangers around us, I am determined to continue my journalistic work. These risks have only strengthened my resolve to fulfill my media mission. I will not retreat from my duty to convey the facts, and amplify the voices of the oppressed to the world.
+
+I want to say that, despite all of this, I carry a message, and no amount of incitement against me will stop me from continuing. I will keep practicing my work to deliver the truth to the world.
+
+I will remain on this path, no matter the cost. I will not stop conveying the truth and raising Gaza’s voice to the world. If I am destined to die for this mission, I accept that, but I will never back down.
+
+“This is my profession and my message.”&#8212;Alaa Salama, 36, Al Jazeera Mubasher
+
+Salama is married with four children.
+
+I was deeply shocked by the announcement of Hossam Shabat's assassination. This was a deliberate assassination. I am personally afraid. I felt that the assassination of a fellow journalist, who had been incited against [by the Israeli military], was the beginning of the assassination of the six journalists, including myself.
+
+The Israeli occupation army is fabricating justifications to assassinate journalists, and the accusations of terrorism are completely false and baseless. We have done nothing but our professional, journalistic work, conveying the voice of our people to the world. Therefore, to stop us from being targeted, the international community and human rights organizations must take a stand.
+
+The Israeli occupation army has killed more than 200 journalists without any justification. This is not limited to Hossam or the six journalists; it just kills journalists without any justification.
+
+The assassination of Shabat did not prevent me from continuing my work. This is my profession and my message. I am taking some precautions after Shabat's targeting, by reducing my movements and activities, but I see no justification for stopping my work.
+
+I feel it is my duty to continue my journalism, but to be honest with you, I fear being targeted. I have a family: I am married with four children. My parents fear for my life. They constantly urge me to stop working or to hide, but that won't stop me from continuing my work.
+
+“I fear being assassinated before I get to see my first child.”&#8212;Ashraf Al-Saraj, 26, Al Jazeera Mubasher
+
+Al-Sarraj&#8212;Al Jazeera Mubasher’s correspondent in central and southern Gaza&#8212;and his wife are expecting the birth of their first child next week.
+
+When I heard the news of Hossam Shabat's assassination, I was deeply shocked. At that moment, I felt that I might be next on the list of journalists targeted for assassination. Hossam paid with his life for the truth.
+
+Since the beginning of the war, Hossam had been documenting the occupation’s crimes against our people without fear or hesitation. I do the same, and there is no justification for the Israeli army's incitement against us, as we are merely fulfilling our journalistic duty.
+
+I constantly live in a state of anxiety and fear that I might face the same fate as Hossam. I fear being assassinated before I get to see my first child, whom I am expecting in less than a week.
+
+I call on all international and human rights organizations to provide us with protection as journalists, as our work is not a crime but a moral and humanitarian duty.
+
+Despite all this, I will not retreat from my mission. There is no room for withdrawal or stopping. My work is a duty I cannot abandon, and these threats will not deter me from conveying the truth, no matter the cost. I will continue reporting with courage and responsibility.
+
+“I will not, and will never, stop this coverage”&#8212;Anas Al-Sharif, 29, Al Jazeera Arabic
+
+Al-Sharif reported receiving multiple calls from Israeli army officers in November 2023, ordering him to cease coverage and to leave northern Gaza. Less than three weeks later, his family home in the Jabaliya refugee camp was bombed, killing his 90-year-old father, Jamal al-Sharif. Like Shabat, al-Sharif never left northern Gaza. [Read Al-Sharif’s reflections in September 2024 on reporting from Gaza]
+
+The news of Hossam Shabat's assassination was like a thunderbolt. Less than an hour before he was targeted, I was in contact with him, discussing coverage. He was my companion for a year and a half in the northern Gaza Strip, where we covered Israeli events and crimes together.
+
+When Shabat was assassinated, I felt a deep sense of oppression, as if no one cared. Hossam Shabat felt that he was a targeted person, because he was on the list of six journalists, which also includes my name. His wish was that we continue our coverage no matter what, and we will do so.
+
+Since the beginning of the war, I have personally faced several threats and assassination attempts by the Israeli army. I lost my father and several relatives as part of the efforts to force me to stop my news coverage.
+
+I believe that continuing journalistic coverage is my responsibility and duty. Reporting the suffering of Gaza’s residents, and the victims of Israeli bombing, is my obligation, and the world must see what is happening to my people.
+
+Despite the threats and danger, I will not, and will never, stop this coverage&#8212;until my last breath, because I am fighting for a just cause.
+
+Leave a comment
+2025/03/31 22:15:08 audiogen.go:314: Generated script: In Gaza, journalists are facing unprecedented dangers as they continue to report under the threat of Israeli airstrikes. Hossam Shabat, a 23-year-old journalist working for Al Jazeera Mubasher and Drop Site News, was killed on March 24th when his car was targeted in Beit Lahia. The Israeli military openly celebrated his death, accusing him of being a terrorist despite his role as a journalist. This accusation is part of a broader pattern where Israel has targeted Palestinian journalists, claiming they are militants. Shabat was one of six journalists accused by Israel in October 2024 of being affiliated with Hamas and Palestinian Islamic Jihad. Despite these threats, Shabat and his colleagues remained in northern Gaza, documenting the atrocities committed by Israeli forces.
+
+Shabat’s killing has sent shockwaves through the journalism community in Gaza. Journalists like Talal Al-Arouqi, Alaa Salama, Ashraf Al-Saraj, and Anas Al-Sharif, who are also on Israel’s alleged hit list, have spoken out about their fears and determination to continue their work. Al-Arouqi, who was previously injured in an Israeli attack, expressed feelings of abandonment by the international community. Salama, a father of four, revealed the constant fear of being targeted, while Al-Saraj, expecting his first child, fears he may not live to see his newborn. Al-Sharif, who lost his father in an Israeli bombing, vowed to continue reporting despite the risks, emphasizing that journalism is a moral duty.
+
+Meanwhile, Israeli Prime Minister Benjamin Netanyahu has outlined what he calls the "final stage" of the military campaign in Gaza, which he claims will lead to the implementation of a plan proposed by former U.S. President Donald Trump. This plan involves the voluntary migration of Palestinians from Gaza, a move Hamas has vehemently rejected. Netanyahu’s announcement came hours after Hamas accepted a ceasefire proposal mediated by Egypt and Qatar, 
+2025/03/31 22:15:13 users.go:456: Status: true
+2025/03/31 22:19:59 requireAuth.go:19: &{{0xc00019a1c0 -1 200} 0xc00011c000 0xc0001b4300 [] [0x7a7500 0x7a8440 0xa42060 0xa410a0] 3 /v1/Generate_now 0xc000165860 0xc0001201f8 0xc000120210 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/03/31 22:19:59 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/03/31 22:20:01 audiogen.go:209: Article 1: Title: Marked for Assassination: Gaza Journalists on Israeli Hit List Refuse to Stop Reporting
+Link: https://www.dropsitenews.com/p/gaza-journalists-hit-list-hossam-shabat
+Published: Mon, 31 Mar 2025 19:22:34 GMT
+
+Content:
+Al Jazeera journalist Anas al-Sharif in the funeral procession of his colleague, Hossam Shabat, who was killed in an Israeli airstrike on March 24, 2024.(Photo by Ahmed Al-Arini/Anadolu via Getty Images)The day after the assassination of Palestinian journalist Hossam Shabat, the Israeli military openly celebrated his killing. A correspondent for Al Jazeera Mubasher and a contributor to Drop Site News, Shabat was killed on March 24 when the Israeli military targeted him as he was driving in his car in Beit Lahia. He was 23 years old. Earlier that day, journalist Mohamed Mansour of Palestine Today was killed, along with his wife and son, in an Israeli airstrike on his home in Khan Younis.
+
+On its official X account the following day, the Israeli military confirmed it had “eliminated” Shabat, claiming they had “exposed” his role within Hamas six months earlier, and the statement concluded with the haunting words: “Don’t let the press vest confuse you, Hossam was a terrorist.”
+
+The Israeli military was referring to its outrageous accusation, in October 2024, that Shabat and five other journalists&#8212;all of whom work for Al Jazeera&#8212;were fighters in Hamas and Palestinian Islamic Jihad. The statement also said that most of them were working in northern Gaza: an area where only a handful of journalists had remained, and where Israel had launched a concentrated extermination campaign earlier that month. At the time, Shabat and his colleagues, those who remained in the north, were on the ground, providing constant coverage to document Israeli atrocities.
+
+After Israel’s announcement, Shabat called on people to speak out using the hashtag #ProtectTheJournalists: “I plead everyone to share the reality about Journalists in order to spread awareness about the real plans of the Israeli occupation to target journalists in order to impose a media blackout. Spread the hashtag and talk about us!”
+
+Israel’s killing of journalists with impunity is nothing new. In 2023, the Committee to Protect Journalists published a report titled “Deadly Pattern,” which documented Israel’s killing of journalists over a twenty-two year period and found “a pattern of Israeli response that appears designed to evade responsibility.” In the past, Israel would often deny it was responsible or claim the journalist was tragically caught in the crossfire&#8212;an unfortunate consequence of “collateral damage.” Yet, since it began killing Palestinian journalists in Gaza on an unprecedented scale, Israel has increasingly admitted to killing journalists, justifying their murders afterwards by claiming they were not journalists at all. By backing up their claims with so-called evidence, which press watchdog groups like CPJ have found to not be credible and often outright preposterous, Israel has increasingly claimed that Palestinian journalists are militants.
+
+Shabat’s killing entails a troubling new development to Israel’s approach: they preemptively accused him and five other journalists of being terrorists prior to attacking them, effectively putting them on a hit list.
+
+Drop Site News reached out to four of the five surviving journalists on the list to ask them how Shabat’s murder affected them, and how they continue to report from Gaza under explicit threats by the Israeli military. 
+
+In what Al Jazeera said at the time was a deliberate attack by an Israeli drone strike north of Rafah in February 2024, the fifth surviving journalist on the list, Ismail Abu Omar, was wounded, along with photojournalist Ahmed Matar. Abu Omar’s right foot and some fingers on his right hand were amputated, and he was eventually evacuated outside of Gaza for treatment.
+
+Drop Site was only able to compile these responses with the help of a journalist in Gaza who asked to remain anonymous out of fear for their safety.
+
+Read Hossam Shabat’s last article and Drop Site’s statement on his murder.
+
+Continue to follow Hossam’s social media accounts on X and Instagram, where two of his close friends continue to post about Hossam and about developments in Gaza.
+
+Drop Site News is reader-supported. Consider becoming a free or paid subscriber.
+
+“We feel abandoned.”&#8212;Talal Al-Arouqi, 30, Al Jazeera Mubasher
+
+Al-Arouqi was previously injured in an Israeli attack on Nuseirat refugee camp in November 2024.
+
+After the martyrdom of Hossam Shabat, I live in constant anxiety, feeling that the next airstrike will target me. What is truly shocking is the inability of the international community and human rights organizations to stop the incitement against us&#8212;the six journalists. We feel abandoned.
+
+I feel unsafe, and I believe that all my fellow journalists outside the list feel unsafe, too. The Israeli army has killed more than 200 journalists without justification or prior warning. How can the Israeli army repeatedly target journalists without facing any consequences? Where is the international accountability?
+
+Despite all the dangers around us, I am determined to continue my journalistic work. These risks have only strengthened my resolve to fulfill my media mission. I will not retreat from my duty to convey the facts, and amplify the voices of the oppressed to the world.
+
+I want to say that, despite all of this, I carry a message, and no amount of incitement against me will stop me from continuing. I will keep practicing my work to deliver the truth to the world.
+
+I will remain on this path, no matter the cost. I will not stop conveying the truth and raising Gaza’s voice to the world. If I am destined to die for this mission, I accept that, but I will never back down.
+
+“This is my profession and my message.”&#8212;Alaa Salama, 36, Al Jazeera Mubasher
+
+Salama is married with four children.
+
+I was deeply shocked by the announcement of Hossam Shabat's assassination. This was a deliberate assassination. I am personally afraid. I felt that the assassination of a fellow journalist, who had been incited against [by the Israeli military], was the beginning of the assassination of the six journalists, including myself.
+
+The Israeli occupation army is fabricating justifications to assassinate journalists, and the accusations of terrorism are completely false and baseless. We have done nothing but our professional, journalistic work, conveying the voice of our people to the world. Therefore, to stop us from being targeted, the international community and human rights organizations must take a stand.
+
+The Israeli occupation army has killed more than 200 journalists without any justification. This is not limited to Hossam or the six journalists; it just kills journalists without any justification.
+
+The assassination of Shabat did not prevent me from continuing my work. This is my profession and my message. I am taking some precautions after Shabat's targeting, by reducing my movements and activities, but I see no justification for stopping my work.
+
+I feel it is my duty to continue my journalism, but to be honest with you, I fear being targeted. I have a family: I am married with four children. My parents fear for my life. They constantly urge me to stop working or to hide, but that won't stop me from continuing my work.
+
+“I fear being assassinated before I get to see my first child.”&#8212;Ashraf Al-Saraj, 26, Al Jazeera Mubasher
+
+Al-Sarraj&#8212;Al Jazeera Mubasher’s correspondent in central and southern Gaza&#8212;and his wife are expecting the birth of their first child next week.
+
+When I heard the news of Hossam Shabat's assassination, I was deeply shocked. At that moment, I felt that I might be next on the list of journalists targeted for assassination. Hossam paid with his life for the truth.
+
+Since the beginning of the war, Hossam had been documenting the occupation’s crimes against our people without fear or hesitation. I do the same, and there is no justification for the Israeli army's incitement against us, as we are merely fulfilling our journalistic duty.
+
+I constantly live in a state of anxiety and fear that I might face the same fate as Hossam. I fear being assassinated before I get to see my first child, whom I am expecting in less than a week.
+
+I call on all international and human rights organizations to provide us with protection as journalists, as our work is not a crime but a moral and humanitarian duty.
+
+Despite all this, I will not retreat from my mission. There is no room for withdrawal or stopping. My work is a duty I cannot abandon, and these threats will not deter me from conveying the truth, no matter the cost. I will continue reporting with courage and responsibility.
+
+“I will not, and will never, stop this coverage”&#8212;Anas Al-Sharif, 29, Al Jazeera Arabic
+
+Al-Sharif reported receiving multiple calls from Israeli army officers in November 2023, ordering him to cease coverage and to leave northern Gaza. Less than three weeks later, his family home in the Jabaliya refugee camp was bombed, killing his 90-year-old father, Jamal al-Sharif. Like Shabat, al-Sharif never left northern Gaza. [Read Al-Sharif’s reflections in September 2024 on reporting from Gaza]
+
+The news of Hossam Shabat's assassination was like a thunderbolt. Less than an hour before he was targeted, I was in contact with him, discussing coverage. He was my companion for a year and a half in the northern Gaza Strip, where we covered Israeli events and crimes together.
+
+When Shabat was assassinated, I felt a deep sense of oppression, as if no one cared. Hossam Shabat felt that he was a targeted person, because he was on the list of six journalists, which also includes my name. His wish was that we continue our coverage no matter what, and we will do so.
+
+Since the beginning of the war, I have personally faced several threats and assassination attempts by the Israeli army. I lost my father and several relatives as part of the efforts to force me to stop my news coverage.
+
+I believe that continuing journalistic coverage is my responsibility and duty. Reporting the suffering of Gaza’s residents, and the victims of Israeli bombing, is my obligation, and the world must see what is happening to my people.
+
+Despite the threats and danger, I will not, and will never, stop this coverage&#8212;until my last breath, because I am fighting for a just cause.
+
+Leave a comment
+2025/03/31 22:20:12 audiogen.go:314: Generated script: In Gaza, journalists are facing unprecedented threats as they continue to report on the ongoing conflict. Hossam Shabat, a 23-year-old correspondent for Al Jazeera Mubasher and contributor to Drop Site News, was killed in an Israeli airstrike on March 24th while driving in Beit Lahia. The Israeli military openly celebrated his death, claiming he was a terrorist despite his press credentials. Shabat was one of six journalists accused by Israel of being affiliated with Hamas and Palestinian Islamic Jihad in October 2024. These accusations have effectively placed them on a hit list. 
+
+Shabat’s colleagues, now living under constant threat, remain determined to continue their work. Talal Al-Arouqi, another Al Jazeera journalist, expressed feelings of abandonment by the international community, stating that over 200 journalists have been killed without justification. Alaa Salama, married with four children, described the fear of being next but emphasized that journalism is his duty. Ashraf Al-Saraj, expecting his first child, fears he may not live to see his baby but vows to keep reporting. Anas Al-Sharif, who lost his father in an Israeli bombing, echoed this resolve, saying he will continue to cover the truth until his last breath.
+
+Meanwhile, Israeli Prime Minister Benjamin Netanyahu has announced what he calls the "final stage" of the conflict in Gaza, referencing a plan to implement what he terms the "Trump plan" for voluntary migration of Palestinians. This comes despite Hamas accepting a ceasefire proposal mediated by Egypt and Qatar. Netanyahu’s government has intensified military operations, issuing forced displacement orders in Rafah and launching heavy bombardments across Gaza. 
+
+The violence has been devastating. On the first day of Eid al-Fitr, an airstrike in Khan Younis killed 16 people, including nine children. Medical volunteers reported cutting brand-new Eid clothes off the bodies of dead children. Over the past 48 hours, 80 people have been killed and more than 300 injured, with many more likely uncounted. 
+
+Adding to the horror, evidence has emerged of Israeli forces summarily executing aid workers from the Palestinian Red Crescent and local civil defense crews in Rafah. Fifteen bodies were recovered from the scene, some found handcuffed with gunshot wounds to the head and chest. The UN has condemned these actions, calling for accountability under international law.
+
+Hamas has reiterated its commitment to resistance, stating that the disarmament of its forces is non-negotiable until Palestine has its own official armed forces. As the conflict rages on, journalists and civilians alike continue to bear the brunt of the violence, with no end in sight.
+2025/03/31 22:20:18 users.go:456: Status: true
+2025/04/01 19:29:29 logging.go:18: Application Starting
+2025/04/01 19:29:29 db.go:40: Database Drivier initialized successfully
+2025/04/01 19:29:29 db.go:47: Database connection established successfully
+2025/04/01 19:31:32 users.go:70: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:161460d38d60a29f4b1f3f72b8567f956c0cc2d7}
+2025/04/01 19:31:32 users.go:88: User with email nipunapamuditha234@gmail.com already exists
+2025/04/01 19:31:32 users.go:172: Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDM2MzY2OTIsInN1YiI6Im5pcHVuYXBhbXVkaXRoYTIzNEBnbWFpbC5jb20ifQ.vQ1QjTCzcP7fQy_UQrFgbCtXW9J0af9atMtVVAaDFjA
+2025/04/01 19:36:08 requireAuth.go:19: &{{0xc0000f0d20 -1 200} 0xc0002c0c80 0xc000120700 [] [0x5e7500 0x5e8440 0x882060 0x881b00] 3 /v1/getuser 0xc00032c000 0xc0003ae288 0xc0003ae2a0 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 19:36:08 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 19:36:08 users.go:188: Type of user: users.User
+2025/04/01 19:36:08 users.go:189: Value of user: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 19:36:08 requireAuth.go:19: &{{0xc0000f0e00 -1 200} 0xc0002c1040 0xc000120700 [] [0x5e7500 0x5e8440 0x882060 0x8817a0] 3 /v1/Get_Preferances 0xc00032c000 0xc0003ae288 0xc0003ae2a0 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 19:36:08 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 19:36:08 requireAuth.go:19: &{{0xc00032a2a0 -1 200} 0xc000372500 0xc000120300 [] [0x5e7500 0x5e8440 0x882060 0x881b00] 3 /v1/getuser 0xc00032c000 0xc000009218 0xc000009230 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 19:36:08 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 19:36:08 users.go:188: Type of user: users.User
+2025/04/01 19:36:08 users.go:189: Value of user: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 19:36:08 requireAuth.go:19: &{{0xc0001c60e0 -1 200} 0xc000190500 0xc0001ca000 [] [0x5e7500 0x5e8440 0x882060 0x8817a0] 3 /v1/Get_Preferances 0xc00032c000 0xc000196048 0xc000196060 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 19:36:08 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 19:55:29 users.go:70: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:e1f46fee1ff52a8c15723e6452cc582bad73c549}
+2025/04/01 19:55:29 users.go:88: User with email nipunapamuditha234@gmail.com already exists
+2025/04/01 19:55:29 users.go:172: Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDM2MzgxMjksInN1YiI6Im5pcHVuYXBhbXVkaXRoYTIzNEBnbWFpbC5jb20ifQ.QBI2vQkwrc-REpeMSs71v4CdlZbopHzfVzn8H50S7sw
+2025/04/01 19:59:00 requireAuth.go:19: &{{0xc00032a0e0 -1 200} 0xc000250000 0xc000120300 [] [0x5e7500 0x5e8440 0x882060 0x8810a0] 3 /v1/Generate_now 0xc00032c000 0xc00036a138 0xc00036a150 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 19:59:00 requireAuth.go:33: Error in getting cookie %v http: named cookie not present
+2025/04/01 19:59:00 main.go:110: http: named cookie not present
+2025/04/01 20:01:02 requireAuth.go:19: &{{0xc00032a1c0 -1 200} 0xc0000a4280 0xc000120500 [] [0x5e7500 0x5e8440 0x882060 0x8810a0] 3 /v1/Generate_now 0xc00032c000 0xc00036a180 0xc00036a1c8 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:01:02 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:01:09 audiogen.go:284: Azure API returned non-OK status: 400, body: {"error":{"message":"The response was filtered due to the prompt triggering Microsoft's content management policy. Please modify your prompt and retry.","type":null,"param":"prompt","code":"content_filter","status":400}}
+2025/04/01 20:01:09 users.go:446: Error generating script: Azure API returned non-OK status: 400, body: {"error":{"message":"The response was filtered due to the prompt triggering Microsoft's content management policy. Please modify your prompt and retry.","type":null,"param":"prompt","code":"content_filter","status":400}}
+2025/04/01 20:08:50 requireAuth.go:19: &{{0xc00032a0e0 -1 200} 0xc0000a4000 0xc000120400 [] [0x5e7500 0x5e8440 0x882060 0x8810a0] 3 /v1/Generate_now 0xc00032c000 0xc00036a138 0xc00036a150 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:08:50 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:08:57 audiogen.go:284: Azure API returned non-OK status: 400, body: {"error":{"message":"The response was filtered due to the prompt triggering Microsoft's content management policy. Please modify your prompt and retry.","type":null,"param":"prompt","code":"content_filter","status":400}}
+2025/04/01 20:08:57 users.go:446: Error generating script: Azure API returned non-OK status: 400, body: {"error":{"message":"The response was filtered due to the prompt triggering Microsoft's content management policy. Please modify your prompt and retry.","type":null,"param":"prompt","code":"content_filter","status":400}}
+2025/04/01 20:14:21 users.go:70: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a9e5ffba02915d8f862af6c7f23bc32d45a7ee69}
+2025/04/01 20:14:21 users.go:88: User with email nipunapamuditha234@gmail.com already exists
+2025/04/01 20:14:21 users.go:172: Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDM2MzkyNjEsInN1YiI6Im5pcHVuYXBhbXVkaXRoYTIzNEBnbWFpbC5jb20ifQ.5GvlZF59IC8qZ6LIYgThCv8rqDiSG7GLOVgv3ylcBI0
+2025/04/01 20:15:00 users.go:70: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a9e5ffba02915d8f862af6c7f23bc32d45a7ee69}
+2025/04/01 20:15:00 users.go:88: User with email nipunapamuditha234@gmail.com already exists
+2025/04/01 20:15:00 users.go:172: Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDM2MzkzMDAsInN1YiI6Im5pcHVuYXBhbXVkaXRoYTIzNEBnbWFpbC5jb20ifQ.sem5ZhjsnMDaTBRu_t7-516Rll03wt-B414kv_8RFHg
+2025/04/01 20:15:04 requireAuth.go:19: &{{0xc00032a0e0 -1 200} 0xc000250140 0xc000292000 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc00036a138 0xc00036a150 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:15:04 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:18:14 requireAuth.go:19: &{{0xc0000f01c0 -1 200} 0xc0000a4280 0xc000120300 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc0003ae270 0xc0003ae288 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:18:14 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:18:14 requireAuth.go:19: &{{0xc00032a0e0 -1 200} 0xc000250000 0xc0002f8000 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc00036a138 0xc00036a150 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:18:14 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:18:54 requireAuth.go:19: &{{0xc0000f0c40 -1 200} 0xc000326640 0xc000120300 [] [0x5e7500 0x5e8440 0x882060 0x8810a0] 3 /v1/Generate_now 0xc00032c000 0xc0003ae270 0xc0003ae288 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:18:54 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:19:03 audiogen.go:284: Azure API returned non-OK status: 400, body: {"error":{"message":"The response was filtered due to the prompt triggering Microsoft's content management policy. Please modify your prompt and retry.","type":null,"param":"prompt","code":"content_filter","status":400}}
+2025/04/01 20:19:03 users.go:446: Error generating script: Azure API returned non-OK status: 400, body: {"error":{"message":"The response was filtered due to the prompt triggering Microsoft's content management policy. Please modify your prompt and retry.","type":null,"param":"prompt","code":"content_filter","status":400}}
+2025/04/01 20:20:43 requireAuth.go:19: &{{0xc000490000 -1 200} 0xc0000a4000 0xc000298000 [] [0x5e7500 0x5e8440 0x882060 0x881b00] 3 /v1/getuser 0xc00032c000 0xc00036a210 0xc00036a228 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:20:43 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:20:43 users.go:188: Type of user: users.User
+2025/04/01 20:20:43 users.go:189: Value of user: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:20:43 requireAuth.go:19: &{{0xc00032a8c0 -1 200} 0xc0003268c0 0xc000120400 [] [0x5e7500 0x5e8440 0x882060 0x8817a0] 3 /v1/Get_Preferances 0xc00032c000 0xc0004ec450 0xc0004ec468 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:20:43 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:20:43 requireAuth.go:19: &{{0xc00032a9a0 -1 200} 0xc000326c80 0xc000120400 [] [0x5e7500 0x5e8440 0x882060 0x881b00] 3 /v1/getuser 0xc00032c000 0xc0004ec450 0xc0004ec468 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:20:43 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:20:43 users.go:188: Type of user: users.User
+2025/04/01 20:20:43 users.go:189: Value of user: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:20:43 requireAuth.go:19: &{{0xc0004900e0 -1 200} 0xc0000a4500 0xc000298000 [] [0x5e7500 0x5e8440 0x882060 0x8817a0] 3 /v1/Get_Preferances 0xc00032c000 0xc00036a210 0xc00036a228 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:20:43 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:20:55 requireAuth.go:19: &{{0xc0004901c0 -1 200} 0xc0000a5040 0xc000298000 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc00036a210 0xc00036a228 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:20:55 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:20:55 requireAuth.go:19: &{{0xc00032ae00 -1 200} 0xc0000a4c80 0xc000120400 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc0004ec450 0xc0004ec468 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:20:55 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:26:21 requireAuth.go:19: &{{0xc0000f01c0 -1 200} 0xc0000a4000 0xc000120300 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc00036a138 0xc00036a150 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:26:21 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:26:29 requireAuth.go:19: &{{0xc0000f02a0 -1 200} 0xc0000a5040 0xc000120300 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc00036a138 0xc00036a150 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:26:29 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:26:30 requireAuth.go:19: &{{0xc0000f0700 -1 200} 0xc0000a4f00 0xc000120300 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc00036a138 0xc00036a150 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:26:30 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:27:08 requireAuth.go:19: &{{0xc0004a00e0 -1 200} 0xc0004b0000 0xc0004a6000 [] [0x5e7500 0x5e8440 0x882060 0x8817a0] 3 /v1/Get_Preferances 0xc00032c000 0xc0004a4000 0xc0004a4018 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:27:08 requireAuth.go:19: &{{0xc000616000 -1 200} 0xc00050e000 0xc000120700 [] [0x5e7500 0x5e8440 0x882060 0x881b00] 3 /v1/getuser 0xc00032c000 0xc00036ae58 0xc00036ae70 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:27:08 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:27:08 requireAuth.go:19: &{{0xc00032a0e0 -1 200} 0xc000240500 0xc000120500 [] [0x5e7500 0x5e8440 0x882060 0x8817a0] 3 /v1/Get_Preferances 0xc00032c000 0xc00036a210 0xc00036a228 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:27:08 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:27:08 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:27:08 users.go:188: Type of user: users.User
+2025/04/01 20:27:08 users.go:189: Value of user: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:27:08 requireAuth.go:19: &{{0xc0000f01c0 -1 200} 0xc00041c000 0xc000120700 [] [0x5e7500 0x5e8440 0x882060 0x881b00] 3 /v1/getuser 0xc00032c000 0xc00036ae58 0xc00036ae70 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:27:08 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:27:08 users.go:188: Type of user: users.User
+2025/04/01 20:27:08 users.go:189: Value of user: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:27:18 requireAuth.go:19: &{{0xc00032a1c0 -1 200} 0xc000240a00 0xc000120500 [] [0x5e7500 0x5e8440 0x882060 0x8818c0] 3 /v1/publish-preferances 0xc00032c000 0xc00036a210 0xc00036a228 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:27:18 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:27:18 requireAuth.go:19: &{{0xc0000f0460 -1 200} 0xc00041c8c0 0xc000120700 [] [0x5e7500 0x5e8440 0x882060 0x8817a0] 3 /v1/Get_Preferances 0xc00032c000 0xc00036ae58 0xc00036ae70 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:27:18 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:27:49 requireAuth.go:19: &{{0xc00032a2a0 -1 200} 0xc0005a6140 0xc000120500 [] [0x5e7500 0x5e8440 0x882060 0x8817a0] 3 /v1/Get_Preferances 0xc00032c000 0xc00036a210 0xc00036a228 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:27:49 requireAuth.go:19: &{{0xc0004a01c0 -1 200} 0xc0005a6280 0xc000516100 [] [0x5e7500 0x5e8440 0x882060 0x881b00] 3 /v1/getuser 0xc00032c000 0xc000590030 0xc000590048 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:27:49 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:27:49 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:27:49 users.go:188: Type of user: users.User
+2025/04/01 20:27:49 users.go:189: Value of user: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:30:55 requireAuth.go:19: &{{0xc000616000 -1 200} 0xc0004b0140 0xc0001b4000 [] [0x5e7500 0x5e8440 0x882060 0x881c20] 3 /v1/getTwUsernames 0xc00032c000 0xc000312000 0xc000312018 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:30:55 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:30:55 twitterHandler.go:39: Twitter username:  thebureau
+2025/04/01 20:30:59 requireAuth.go:19: &{{0xc0006161c0 -1 200} 0xc0004b0640 0xc0001b4000 [] [0x5e7500 0x5e8440 0x882060 0x8818c0] 3 /v1/publish-preferances 0xc00032c000 0xc000312000 0xc000312018 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:30:59 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:30:59 requireAuth.go:19: &{{0xc0000f0540 -1 200} 0xc00041c500 0xc000120700 [] [0x5e7500 0x5e8440 0x882060 0x8817a0] 3 /v1/Get_Preferances 0xc00032c000 0xc00036ae58 0xc00036ae70 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:30:59 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:31:02 requireAuth.go:19: &{{0xc00032a0e0 -1 200} 0xc000240000 0xc000120500 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc00036a210 0xc00036a228 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:31:02 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:31:02 requireAuth.go:19: &{{0xc0000f0620 -1 200} 0xc00041cc80 0xc000120700 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc00036ae58 0xc00036ae70 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:31:02 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:31:05 requireAuth.go:19: &{{0xc00032a8c0 -1 200} 0xc0002417c0 0xc000120500 [] [0x5e7500 0x5e8440 0x882060 0x8810a0] 3 /v1/Generate_now 0xc00032c000 0xc00036a210 0xc00036a228 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:31:05 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:31:08 audiogen.go:209: Article 1: Title: BREAKING: PM Carney’s Candidate Paul Chiang Steps Down After RCMP Confirms Probe Into “Bounty” Comments
+Link: https://www.thebureau.news/p/breaking-pm-carneys-candidate-paul
+Published: Tue, 01 Apr 2025 11:56:24 GMT
+
+Content:
+OTTAWA &#8212; Just after midnight Monday, Liberal MP Paul Chiang announced he is stepping down as the Liberal candidate in Markham&#8211;Unionville &#8212; hours after Canada’s federal police confirmed it was “looking into” allegations that he endorsed handing a political rival to a foreign government in exchange for a bounty.
+
+“This is a uniquely important election with so much at stake for Canadians,” Chiang wrote in a late-night statement. “I do not want there to be distractions in this critical moment. That’s why I’m standing aside as our 2025 candidate.”
+
+The announcement followed a day of escalating controversy, triggered by The Bureau’s Friday report and a series of breaking developments over the weekend and Monday, detailing Chiang’s remarks at a January meeting with Chinese-language media.
+
+At a January news conference Chiang suggested that Joe Tay’s criminal charge in Hong Kong would create a “great controversy” if he were elected to Parliament, according to the Ming Pao newspaper. He then reportedly crossed into territory that Hong Kong rights groups have asked the RCMP to investigate &#8212; potentially amounting to violating Canada’s foreign interference laws &#8212; by suggesting that Tay, a Canadian citizen wanted under Hong Kong’s National Security Law, could be “taken” to the Chinese Consulate in Toronto to claim a HK$1 million bounty.
+
+The UK-based human rights NGO Hong Kong Watch filed a formal letter to RCMP Commissioner Mike Duheme on Monday morning, requesting a criminal investigation. The letter alleged Chiang’s comments may amount to “counselling to commit kidnapping” under Canada’s Criminal Code, and potentially violate the new Foreign Interference and Security of Information Act.
+
+By late evening, the RCMP confirmed it was “looking into the matter,” citing the serious and growing threat of foreign interference and transnational repression. While no criminal charges have been laid, and no details about potential protective measures have been released, the federal police said it is working closely with intelligence and law enforcement partners.
+
+Chiang did not reference the controversy directly in his resignation statement, instead framing his decision as a step to protect the broader interests of the Liberal campaign. He expressed pride in his record and gratitude to his community.
+
+“For the past three-and-a-half years, it has been the greatest honour of my life to serve the people of Markham&#8211;Unionville as their Member of Parliament,” he wrote. “Every single day, I served with integrity and worked to deliver results.”
+
+The move comes after mounting calls for Chiang’s removal, including from more than 40 Hong Kong diaspora groups and international human rights advocates who said his remarks endorsed Beijing’s tactics of transnational repression. Joe Tay, the Conservative candidate targeted in the remarks, revealed Monday that he had contacted the RCMP for personal protection even before the comments were made public.
+
+Chiang had previously apologized for what he called a “terrible lapse in judgment,” but had retained the backing of Prime Minister Mark Carney &#8212; until Monday night.
+
+More to come on this breaking story. 
+
+The Bureau is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+2025/04/01 20:31:15 audiogen.go:314: Generated script: Liberal MP Paul Chiang has stepped down as the Liberal candidate in Markham-Unionville following a growing controversy over his alleged comments about a political rival. The Royal Canadian Mounted Police confirmed they are looking into the matter after reports surfaced that Chiang suggested handing over Conservative candidate Joe Tay to the Chinese Consulate in Toronto to claim a bounty. The comments were made during a January meeting with Chinese-language media and have sparked widespread outrage. 
+
+Chiang announced his decision to step aside in a late-night statement, saying he did not want to be a distraction in this critical election. He expressed pride in his record and gratitude to his community but did not directly address the controversy. The RCMP has emphasized the serious threat of foreign interference and transnational repression, stating they are working closely with intelligence and law enforcement partners. 
+
+The UK-based human rights organization Hong Kong Watch has called for a criminal investigation, alleging Chiang’s remarks could amount to counseling to commit kidnapping under Canada’s Criminal Code. Joe Tay, the Conservative candidate targeted in the remarks, revealed he had contacted the RCMP for personal protection even before the comments became public. 
+
+Prime Minister Mark Carney had previously stood by Chiang, describing the incident as a teachable moment. However, mounting pressure from over 40 Hong Kong diaspora groups and international human rights advocates led to Chiang’s resignation. The RCMP has not confirmed a formal investigation but stressed their commitment to public safety and security. More details are expected as this story develops.
+2025/04/01 20:31:25 users.go:456: Status: true
+2025/04/01 20:31:46 requireAuth.go:19: &{{0xc0004a0000 -1 200} 0xc0000a4000 0xc000120500 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc00036a210 0xc00036a228 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:31:46 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:31:47 requireAuth.go:19: &{{0xc0004a0b60 -1 200} 0xc00041c500 0xc0004a2200 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc0003ae9a8 0xc0003ae9c0 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:31:47 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:36:56 requireAuth.go:19: &{{0xc0000f01c0 -1 200} 0xc000250000 0xc000120300 [] [0x5e7500 0x5e8440 0x882060 0x8810a0] 3 /v1/Generate_now 0xc00032c000 0xc0003ae270 0xc0003ae288 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:36:56 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:36:59 audiogen.go:209: Article 1: Title: BREAKING: PM Carney’s Candidate Paul Chiang Steps Down After RCMP Confirms Probe Into “Bounty” Comments
+Link: https://www.thebureau.news/p/breaking-pm-carneys-candidate-paul
+Published: Tue, 01 Apr 2025 11:56:24 GMT
+
+Content:
+OTTAWA &#8212; Just after midnight Monday, Liberal MP Paul Chiang announced he is stepping down as the Liberal candidate in Markham&#8211;Unionville &#8212; hours after Canada’s federal police confirmed it was “looking into” allegations that he endorsed handing a political rival to a foreign government in exchange for a bounty.
+
+“This is a uniquely important election with so much at stake for Canadians,” Chiang wrote in a late-night statement. “I do not want there to be distractions in this critical moment. That’s why I’m standing aside as our 2025 candidate.”
+
+The announcement followed a day of escalating controversy, triggered by The Bureau’s Friday report and a series of breaking developments over the weekend and Monday, detailing Chiang’s remarks at a January meeting with Chinese-language media.
+
+At a January news conference Chiang suggested that Joe Tay’s criminal charge in Hong Kong would create a “great controversy” if he were elected to Parliament, according to the Ming Pao newspaper. He then reportedly crossed into territory that Hong Kong rights groups have asked the RCMP to investigate &#8212; potentially amounting to violating Canada’s foreign interference laws &#8212; by suggesting that Tay, a Canadian citizen wanted under Hong Kong’s National Security Law, could be “taken” to the Chinese Consulate in Toronto to claim a HK$1 million bounty.
+
+The UK-based human rights NGO Hong Kong Watch filed a formal letter to RCMP Commissioner Mike Duheme on Monday morning, requesting a criminal investigation. The letter alleged Chiang’s comments may amount to “counselling to commit kidnapping” under Canada’s Criminal Code, and potentially violate the new Foreign Interference and Security of Information Act.
+
+By late evening, the RCMP confirmed it was “looking into the matter,” citing the serious and growing threat of foreign interference and transnational repression. While no criminal charges have been laid, and no details about potential protective measures have been released, the federal police said it is working closely with intelligence and law enforcement partners.
+
+Chiang did not reference the controversy directly in his resignation statement, instead framing his decision as a step to protect the broader interests of the Liberal campaign. He expressed pride in his record and gratitude to his community.
+
+“For the past three-and-a-half years, it has been the greatest honour of my life to serve the people of Markham&#8211;Unionville as their Member of Parliament,” he wrote. “Every single day, I served with integrity and worked to deliver results.”
+
+The move comes after mounting calls for Chiang’s removal, including from more than 40 Hong Kong diaspora groups and international human rights advocates who said his remarks endorsed Beijing’s tactics of transnational repression. Joe Tay, the Conservative candidate targeted in the remarks, revealed Monday that he had contacted the RCMP for personal protection even before the comments were made public.
+
+Chiang had previously apologized for what he called a “terrible lapse in judgment,” but had retained the backing of Prime Minister Mark Carney &#8212; until Monday night.
+
+More to come on this breaking story. 
+
+The Bureau is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+2025/04/01 20:37:05 audiogen.go:314: Generated script: Liberal MP Paul Chiang has stepped down as the Liberal candidate in Markham-Unionville following a growing controversy over his alleged comments about a political rival. The Royal Canadian Mounted Police confirmed they are looking into the matter after reports surfaced that Chiang suggested handing over Conservative candidate Joe Tay to the Chinese Consulate in Toronto in exchange for a bounty. The comments were made during a January meeting with Chinese-language media and have sparked widespread condemnation. 
+
+Chiang announced his decision to step aside in a late-night statement, saying he did not want to be a distraction in this critical election. He expressed pride in his record and gratitude to his community but did not directly address the controversy. The RCMP has emphasized the seriousness of foreign interference and transnational repression, stating they are working closely with intelligence and law enforcement partners. 
+
+The UK-based human rights organization Hong Kong Watch has called for a criminal investigation, alleging Chiang’s remarks could amount to counseling to commit kidnapping under Canada’s Criminal Code. Joe Tay, the Conservative candidate targeted in the remarks, revealed he had contacted the RCMP for personal protection even before the comments became public. 
+
+Prime Minister Mark Carney had previously stood by Chiang, describing the incident as a teachable moment. However, mounting pressure from over 40 Hong Kong diaspora groups and international human rights advocates led to Chiang’s resignation. The RCMP has not confirmed a formal investigation but stressed their commitment to public safety and security. 
+
+This story continues to develop as the RCMP reviews the allegations and the Liberal Party moves forward with its campaign.
+2025/04/01 20:37:13 users.go:456: Status: true
+2025/04/01 20:41:18 requireAuth.go:19: &{{0xc0000f02a0 -1 200} 0xc000240000 0xc000120400 [] [0x5e7500 0x5e8440 0x882060 0x880f80] 3 /v1/getaudio_files 0xc00032c000 0xc00018e000 0xc00018e030 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:41:18 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:44:35 logging.go:18: Application Starting
+2025/04/01 20:44:35 db.go:40: Database Drivier initialized successfully
+2025/04/01 20:44:35 db.go:47: Database connection established successfully
+2025/04/01 20:44:41 requireAuth.go:19: &{{0xc00012c0e0 -1 200} 0xc00015a000 0xc000170000 [] [0xfd7500 0xfd8440 0x1271f20 0x1270e40] 3 /v1/getaudio_files 0xc00012e000 0xc00011e0d8 0xc00011e0f0 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:44:41 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:44:42 requireAuth.go:19: &{{0xc000368000 -1 200} 0xc00034c500 0xc000170000 [] [0xfd7500 0xfd8440 0x1271f20 0x1270e40] 3 /v1/getaudio_files 0xc00012e000 0xc00011e0d8 0xc00011e0f0 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:44:42 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:44:44 requireAuth.go:19: &{{0xc0000f0380 -1 200} 0xc0002d4780 0xc000170000 [] [0xfd7500 0xfd8440 0x1271f20 0x1270f60] 3 /v1/Generate_now 0xc00012e000 0xc00011e0d8 0xc00011e0f0 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:44:44 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:44:54 audiogen.go:314: Generated script: Liberal MP Paul Chiang has stepped down as the Liberal candidate in Markham-Unionville following a growing controversy over his alleged comments about a political rival. The Royal Canadian Mounted Police confirmed they are looking into the matter after reports surfaced that Chiang suggested handing over Conservative candidate Joe Tay to a foreign government in exchange for a bounty. The remarks were made during a January meeting with Chinese-language media, where Chiang reportedly said Tay could be taken to the Chinese Consulate in Toronto to claim a one-million Hong Kong dollar bounty. 
+
+The UK-based human rights organization Hong Kong Watch filed a formal letter with the RCMP, alleging that Chiang’s comments could amount to counseling to commit kidnapping under Canada’s Criminal Code. They also raised concerns about potential violations of the Foreign Interference and Security of Information Act. The RCMP stated that foreign interference and transnational repression are serious threats and that they are working closely with intelligence and law enforcement partners to address the issue. 
+
+In a late-night statement, Chiang announced his decision to step aside, saying he did not want to be a distraction during this critical election period. He expressed pride in his record as an MP and gratitude to his community but did not directly address the controversy. Chiang had previously apologized for what he called a "terrible lapse in judgment." 
+
+The controversy has drawn widespread condemnation, with over 40 Hong Kong diaspora groups and international human rights advocates calling for Chiang’s removal. Joe Tay, the Conservative candidate targeted in the remarks, revealed that he had contacted the RCMP for personal protection even before the comments became public. 
+
+Prime Minister Mark Carney had initially stood by Chiang, describing the incident as a "teachable moment," but Chiang’s resignation marks a significant shift in the situation. The RCMP emphasized that their priority is public safety and encouraged anyone feeling threatened to report incidents to local authorities. 
+
+This story continues to develop as investigations unfold.
+2025/04/01 20:45:04 users.go:456: Status: true
+2025/04/01 20:46:42 requireAuth.go:19: &{{0xc000368000 -1 200} 0xc00015a000 0xc000170000 [] [0xfd7500 0xfd8440 0x1271f20 0x1270e40] 3 /v1/getaudio_files 0xc00012e000 0xc00011e0d8 0xc00011e0f0 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:46:42 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:46:42 requireAuth.go:19: &{{0xc0000f0700 -1 200} 0xc0000a57c0 0xc000430100 [] [0xfd7500 0xfd8440 0x1271f20 0x1270e40] 3 /v1/getaudio_files 0xc00012e000 0xc00011ea08 0xc00011ea20 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:46:42 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:46:51 requireAuth.go:19: &{{0xc0003680e0 -1 200} 0xc000250000 0xc000170000 [] [0xfd7500 0xfd8440 0x1271f20 0x1270e40] 3 /v1/getaudio_files 0xc00012e000 0xc00011e0d8 0xc00011e0f0 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:46:51 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:46:52 requireAuth.go:19: &{{0xc0000f0e00 -1 200} 0xc00015be00 0xc000170000 [] [0xfd7500 0xfd8440 0x1271f20 0x1270e40] 3 /v1/getaudio_files 0xc00012e000 0xc00011e0d8 0xc00011e0f0 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:46:52 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:48:36 requireAuth.go:19: &{{0xc0000f01c0 -1 200} 0xc000572000 0xc000170000 [] [0xfd7500 0xfd8440 0x1271f20 0x1270e40] 3 /v1/getaudio_files 0xc00012e000 0xc00011e0d8 0xc00011e0f0 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:48:36 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:48:36 requireAuth.go:19: &{{0xc0002be000 -1 200} 0xc000250500 0xc000170000 [] [0xfd7500 0xfd8440 0x1271f20 0x1270e40] 3 /v1/getaudio_files 0xc00012e000 0xc00011e0d8 0xc00011e0f0 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:48:36 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:48:42 requireAuth.go:19: &{{0xc00012c540 -1 200} 0xc0005a1040 0xc000170000 [] [0xfd7500 0xfd8440 0x1271f20 0x1270f60] 3 /v1/Generate_now 0xc00012e000 0xc00011e0d8 0xc00011e0f0 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:48:42 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:48:52 audiogen.go:314: Generated script: Liberal MP Paul Chiang has stepped down as the party's candidate in Markham-Unionville following a growing controversy over his alleged comments about a political rival. The Royal Canadian Mounted Police confirmed they are looking into the matter after reports surfaced that Chiang suggested handing over Conservative candidate Joe Tay to Chinese authorities in exchange for a bounty. 
+
+The controversy began when Chiang reportedly made the remarks during a January meeting with Chinese-language media. He allegedly suggested that Tay, who faces criminal charges in Hong Kong, could be taken to the Chinese Consulate in Toronto to claim a one-million Hong Kong dollar bounty. These comments prompted the UK-based human rights organization Hong Kong Watch to file a formal complaint with the RCMP, alleging potential violations of Canada's Criminal Code and foreign interference laws.
+
+In a late-night statement, Chiang announced his decision to step aside, saying he did not want to be a distraction during this critical election period. He expressed pride in his service to the Markham-Unionville community but did not directly address the allegations in his resignation. 
+
+The RCMP has emphasized the seriousness of foreign interference and transnational repression, stating they are working closely with intelligence and law enforcement partners. While no formal charges have been filed, the investigation continues. 
+
+Joe Tay, the Conservative candidate at the center of the controversy, revealed he had already sought protection from the RCMP due to safety concerns. Over 40 Hong Kong diaspora groups and human rights advocates have condemned Chiang's remarks, calling them an endorsement of Beijing's tactics. 
+
+Prime Minister Mark Carney had initially stood by Chiang, describing the incident as a "teachable moment," but the mounting pressure ultimately led to Chiang's resignation. The RCMP urges anyone feeling threatened to report incidents to local authorities or call 911 in emergencies. This story is still developing.
+2025/04/01 20:49:03 users.go:456: Status: true
+2025/04/01 20:49:04 requireAuth.go:19: &{{0xc0003e2000 -1 200} 0xc0005a0280 0xc000120100 [] [0xfd7500 0xfd8440 0x1271f20 0x1270e40] 3 /v1/getaudio_files 0xc00012e000 0xc00011e318 0xc00011e330 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:49:04 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:53:19 logging.go:18: Application Starting
+2025/04/01 20:53:19 db.go:40: Database Drivier initialized successfully
+2025/04/01 20:53:19 db.go:47: Database connection established successfully
+2025/04/01 20:53:24 requireAuth.go:19: &{{0xc0000f0460 -1 200} 0xc000253a40 0xc0001a0400 [] [0xd07500 0xd08440 0xfa1f40 0xfa0f80] 3 /v1/Generate_now 0xc0000d7860 0xc0000092c0 0xc0000092d8 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/01 20:53:24 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/01 20:54:14 audiogen.go:284: Azure API returned non-OK status: 500, body: {"error":{"code":"Internal Server Error","message":"An error occurred during the request processing: Server disconnected without sending a response. | Type: RemoteProtocolError | Traceback (most recent call last):||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_transports/default.py\", line 66, in map_httpcore_exceptions||    yield||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_transports/default.py\", line 366, in handle_async_request||    resp = await self._pool.handle_async_request(req)||           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/connection_pool.py\", line 256, in handle_async_request||    raise exc from None||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/connection_pool.py\", line 236, in handle_async_request||    response = await connection.handle_async_request(||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/connection.py\", line 103, in handle_async_request||    return await self._connection.handle_async_request(request)||           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/http11.py\", line 136, in handle_async_request||    raise exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/http11.py\", line 106, in handle_async_request||    ) = await self._receive_response_headers(**kwargs)||        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/http11.py\", line 177, in _receive_response_headers||    event = await self._receive_event(timeout=timeout)||            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/http11.py\", line 231, in _receive_event||    raise RemoteProtocolError(msg)||httpcore.RemoteProtocolError: Server disconnected without sending a response.||||The above exception was the direct cause of the following exception:||||Traceback (most recent call last):||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/errors.py\", line 164, in __call__||    await self.app(scope, receive, _send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/billingproxy/main.py\", line 442, in __call__||    return await handler_task||           ^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 189, in __call__||    with collapse_excgroups():||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/contextlib.py\", line 158, in __exit__||    self.gen.throw(typ, value, traceback)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/_utils.py\", line 93, in collapse_excgroups||    raise exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 191, in __call__||    response = await self.dispatch_func(request, call_next)||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/billingproxy/main.py\", line 408, in dispatch||    response = await call_next(request)||               ^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 165, in call_next||    raise app_exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 151, in coro||    await self.app(scope, receive_or_disconnect, send_no_error)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 189, in __call__||    with collapse_excgroups():||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/contextlib.py\", line 158, in __exit__||    self.gen.throw(typ, value, traceback)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/_utils.py\", line 93, in collapse_excgroups||    raise exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 191, in __call__||    response = await self.dispatch_func(request, call_next)||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/billingproxy/main.py\", line 384, in dispatch||    response = await call_next(request)||               ^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 165, in call_next||    raise app_exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 151, in coro||    await self.app(scope, receive_or_disconnect, send_no_error)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/cors.py\", line 85, in __call__||    await self.app(scope, receive, send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/exceptions.py\", line 65, in __call__||    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/_exception_handler.py\", line 64, in wrapped_app||    raise exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/_exception_handler.py\", line 53, in wrapped_app||    await app(scope, receive, sender)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/routing.py\", line 756, in __call__||    await self.middleware_stack(scope, receive, send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/routing.py\", line 776, in app||    await route.handle(scope, receive, send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/routing.py\", line 297, in handle||    await self.app(scope, receive, send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/routing.py\", line 77, in app||    await wrap_app_handling_exceptions(app, request)(scope, receive, send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/_exception_handler.py\", line 64, in wrapped_app||    raise exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/_exception_handler.py\", line 53, in wrapped_app||    await app(scope, receive, sender)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/routing.py\", line 72, in app||    response = await func(request)||               ^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/fastapi/routing.py\", line 278, in app||    raw_response = await run_endpoint_function(||                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/fastapi/routing.py\", line 191, in run_endpoint_function||    return await dependant.call(**values)||           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/billingproxy/apis/sglang/chat.py\", line 424, in chat||    response = await downstream_client_getter().send(downstream_request)||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_client.py\", line 1617, in send||    response = await self._send_handling_auth(||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_client.py\", line 1645, in _send_handling_auth||    response = await self._send_handling_redirects(||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_client.py\", line 1682, in _send_handling_redirects||    response = await self._send_single_request(request)||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_client.py\", line 1719, in _send_single_request||    response = await transport.handle_async_request(request)||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_transports/default.py\", line 365, in handle_async_request||    with map_httpcore_exceptions():||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/contextlib.py\", line 158, in __exit__||    self.gen.throw(typ, value, traceback)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_transports/default.py\", line 83, in map_httpcore_exceptions||    raise mapped_exc(message) from exc||httpx.RemoteProtocolError: Server disconnected without sending a response.||","status":500}}
+2025/04/01 20:54:14 users.go:446: Error generating script: Azure API returned non-OK status: 500, body: {"error":{"code":"Internal Server Error","message":"An error occurred during the request processing: Server disconnected without sending a response. | Type: RemoteProtocolError | Traceback (most recent call last):||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_transports/default.py\", line 66, in map_httpcore_exceptions||    yield||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_transports/default.py\", line 366, in handle_async_request||    resp = await self._pool.handle_async_request(req)||           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/connection_pool.py\", line 256, in handle_async_request||    raise exc from None||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/connection_pool.py\", line 236, in handle_async_request||    response = await connection.handle_async_request(||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/connection.py\", line 103, in handle_async_request||    return await self._connection.handle_async_request(request)||           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/http11.py\", line 136, in handle_async_request||    raise exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/http11.py\", line 106, in handle_async_request||    ) = await self._receive_response_headers(**kwargs)||        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/http11.py\", line 177, in _receive_response_headers||    event = await self._receive_event(timeout=timeout)||            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpcore/_async/http11.py\", line 231, in _receive_event||    raise RemoteProtocolError(msg)||httpcore.RemoteProtocolError: Server disconnected without sending a response.||||The above exception was the direct cause of the following exception:||||Traceback (most recent call last):||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/errors.py\", line 164, in __call__||    await self.app(scope, receive, _send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/billingproxy/main.py\", line 442, in __call__||    return await handler_task||           ^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 189, in __call__||    with collapse_excgroups():||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/contextlib.py\", line 158, in __exit__||    self.gen.throw(typ, value, traceback)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/_utils.py\", line 93, in collapse_excgroups||    raise exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 191, in __call__||    response = await self.dispatch_func(request, call_next)||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/billingproxy/main.py\", line 408, in dispatch||    response = await call_next(request)||               ^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 165, in call_next||    raise app_exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 151, in coro||    await self.app(scope, receive_or_disconnect, send_no_error)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 189, in __call__||    with collapse_excgroups():||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/contextlib.py\", line 158, in __exit__||    self.gen.throw(typ, value, traceback)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/_utils.py\", line 93, in collapse_excgroups||    raise exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 191, in __call__||    response = await self.dispatch_func(request, call_next)||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/billingproxy/main.py\", line 384, in dispatch||    response = await call_next(request)||               ^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 165, in call_next||    raise app_exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/base.py\", line 151, in coro||    await self.app(scope, receive_or_disconnect, send_no_error)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/cors.py\", line 85, in __call__||    await self.app(scope, receive, send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/middleware/exceptions.py\", line 65, in __call__||    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/_exception_handler.py\", line 64, in wrapped_app||    raise exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/_exception_handler.py\", line 53, in wrapped_app||    await app(scope, receive, sender)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/routing.py\", line 756, in __call__||    await self.middleware_stack(scope, receive, send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/routing.py\", line 776, in app||    await route.handle(scope, receive, send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/routing.py\", line 297, in handle||    await self.app(scope, receive, send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/routing.py\", line 77, in app||    await wrap_app_handling_exceptions(app, request)(scope, receive, send)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/_exception_handler.py\", line 64, in wrapped_app||    raise exc||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/_exception_handler.py\", line 53, in wrapped_app||    await app(scope, receive, sender)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/starlette/routing.py\", line 72, in app||    response = await func(request)||               ^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/fastapi/routing.py\", line 278, in app||    raw_response = await run_endpoint_function(||                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/fastapi/routing.py\", line 191, in run_endpoint_function||    return await dependant.call(**values)||           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/billingproxy/apis/sglang/chat.py\", line 424, in chat||    response = await downstream_client_getter().send(downstream_request)||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_client.py\", line 1617, in send||    response = await self._send_handling_auth(||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_client.py\", line 1645, in _send_handling_auth||    response = await self._send_handling_redirects(||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_client.py\", line 1682, in _send_handling_redirects||    response = await self._send_single_request(request)||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_client.py\", line 1719, in _send_single_request||    response = await transport.handle_async_request(request)||               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_transports/default.py\", line 365, in handle_async_request||    with map_httpcore_exceptions():||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/contextlib.py\", line 158, in __exit__||    self.gen.throw(typ, value, traceback)||  File \"/opt/microsoft-maas/billingproxy/lib/python3.11/site-packages/httpx/_transports/default.py\", line 83, in map_httpcore_exceptions||    raise mapped_exc(message) from exc||httpx.RemoteProtocolError: Server disconnected without sending a response.||","status":500}}
+2025/04/02 21:12:29 logging.go:18: Application Starting
+2025/04/02 21:12:29 db.go:40: Database Drivier initialized successfully
+2025/04/02 21:12:29 db.go:47: Database connection established successfully
+2025/04/02 21:13:11 users.go:70: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:19214403af307d3b3f9b91cbaf95a0485aa6142e}
+2025/04/02 21:13:11 users.go:88: User with email nipunapamuditha234@gmail.com already exists
+2025/04/02 21:13:11 users.go:172: Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDM3MjkxOTEsInN1YiI6Im5pcHVuYXBhbXVkaXRoYTIzNEBnbWFpbC5jb20ifQ.7VqKTMK-h18WAHR4NySxjsFkF7RAk9cTmaOUu1CNPEg
+2025/04/02 21:13:11 requireAuth.go:19: &{{0xc000424000 -1 200} 0xc00040a000 0xc000434100 [] [0x1087500 0x1088440 0x1321f40 0x1320e60] 3 /v1/getaudio_files 0xc00012e000 0xc000436000 0xc000436018 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/02 21:13:11 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/02 21:13:12 requireAuth.go:19: &{{0xc00012c0e0 -1 200} 0xc000251e00 0xc00016e100 [] [0x1087500 0x1088440 0x1321f40 0x1320e60] 3 /v1/getaudio_files 0xc00012e000 0xc0001201b0 0xc0001201c8 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/02 21:13:12 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/02 21:17:22 requireAuth.go:19: &{{0xc0004240e0 -1 200} 0xc00040a140 0xc00016e100 [] [0x1087500 0x1088440 0x1321f40 0x1320f80] 3 /v1/Generate_now 0xc00012e000 0xc0001201b0 0xc0001201c8 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/02 21:17:22 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/02 21:17:33 audiogen.go:314: Generated script: Canada is facing a critical moment in its history as concerns over foreign interference, particularly from China, continue to grow. Recent events have highlighted the extent to which Canada’s sovereignty and democratic foundations are under threat. The resignation of Liberal MP Paul Chiang has brought these issues into sharp focus. Chiang stepped down after reports surfaced that he suggested his Conservative rival, Joe Tay, could be handed over to Chinese officials in exchange for a bounty. Tay, a Canadian citizen wanted under Hong Kong’s National Security Law, has been a vocal advocate for democracy, making him a target for Beijing. Chiang later apologized, calling his remarks a lapse in judgment, but the incident has raised serious questions about China’s influence in Canadian politics.
+
+This is not an isolated case. Allegations of Chinese voter suppression during the 2021 federal election have also come to light. Senior Conservative sources claim that Chinese officials actively surveilled and intimidated voters in the Markham-Unionville riding, where Chiang unseated longtime Conservative MP Bob Saroya. Reports suggest that Chinese agents followed Saroya’s campaign team, visiting homes shortly after they canvassed, in what appears to be a coordinated effort to suppress votes. These tactics have left many in the Chinese-Canadian community feeling targeted and silenced.
+
+The issue of foreign interference goes beyond individual incidents. China’s strategic infiltration of Canadian politics and institutions has been a growing concern for years. From covert funding of candidates to media manipulation, the fingerprints of Beijing’s United Front activities are increasingly visible. Yet, Canada’s response has been marked by complacency. Despite repeated warnings from intelligence agencies like CSIS, the government has been slow to act, allowing China’s influence to deepen.
+
+This inaction has broader implications. Canada’s failure to address these challenges not only undermines its sovereignty but also plays into the hands of U.S. strategic interests. As the U.S. ramps up efforts to contain China’s global rise, Canada’s passive approach risks drawing it into a broader geopolitical struggle, further eroding its ability to chart an independent course.
+
+The stakes are high. Canada must confront these issues head-on, from cracking down on transnational organized crime and money laundering to safeguarding its political integrity. The time for complacency is over. If Canada fails to act, it risks losing not only its sovereignty but also its voice on the world stage. The future of the nation depends on decisive leadership and a commitment to protecting the values that Canadians hold dear.
+2025/04/02 21:17:44 users.go:456: Status: true
+2025/04/02 21:17:45 requireAuth.go:19: &{{0xc000424000 -1 200} 0xc00040a780 0xc00016e100 [] [0x1087500 0x1088440 0x1321f40 0x1320e60] 3 /v1/getaudio_files 0xc00012e000 0xc0001201b0 0xc0001201c8 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/02 21:17:45 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/03 07:54:03 logging.go:18: Application Starting
+2025/04/03 07:54:03 db.go:40: Database Drivier initialized successfully
+2025/04/03 07:54:03 db.go:47: Database connection established successfully
+2025/04/03 07:56:11 users.go:70: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:659685b24301100446c5156dbe35ced3b1b35e69}
+2025/04/03 07:56:11 users.go:88: User with email nipunapamuditha234@gmail.com already exists
+2025/04/03 07:56:11 users.go:172: Token generated successfully: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDM3Njc3NzEsInN1YiI6Im5pcHVuYXBhbXVkaXRoYTIzNEBnbWFpbC5jb20ifQ.ajFZv99mBFe29tSXR7aAVACuzMc5wixwMe3nlx9kC_A
+2025/04/03 07:56:11 requireAuth.go:19: &{{0xc000320000 -1 200} 0xc000308000 0xc000328100 [] [0xca7500 0xca8440 0xf41f40 0xf40e60] 3 /v1/getaudio_files 0xc0001656c0 0xc000304018 0xc000304030 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/03 07:56:11 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/03 07:56:12 requireAuth.go:19: &{{0xc0000be0e0 -1 200} 0xc0003088c0 0xc000328100 [] [0xca7500 0xca8440 0xf41f40 0xf40e60] 3 /v1/getaudio_files 0xc0001656c0 0xc000304018 0xc000304030 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
+2025/04/03 07:56:12 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
