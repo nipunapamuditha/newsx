@@ -156,6 +156,6 @@ func main() {
 		})
 
 	}
-	router.Run("localhost:9090")
+	router.Run("0.0.0.0:9090")
 
 }
