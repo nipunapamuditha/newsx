@@ -30,14 +30,14 @@ func RequireAuth(c *gin.Context, db *sql.DB) error {
 	tokenstring, err := c.Cookie("Authorization")
 
 	if err != nil {
-		log.Println("Error in getting cookie %v", err)
+		log.Printf("Error in getting cookie %v", err)
 		c.AbortWithStatus(http.StatusUnauthorized)
 		return err
 	}
 
 	tokem, err := jwt.Parse(tokenstring, func(token *jwt.Token) (interface{}, error) {
 		if _, ok := token.Method.(*jwt.SigningMethodHMAC); !ok {
-			log.Println("Unexpected signing method: %v", token.Header["alg"])
+			log.Printf("Unexpected signing method: %v", token.Header["alg"])
 			return nil, fmt.Errorf("Unexpected signing method: %v", token.Header["alg"])
 		}
 
@@ -59,7 +59,7 @@ func RequireAuth(c *gin.Context, db *sql.DB) error {
 		rows, err := db.Query("SELECT * FROM users WHERE email = ?", claims["sub"])
 		if err != nil {
 
-			log.Println("DB Query error to validate user %v", err)
+			log.Printf("DB Query error to validate user %v", err)
 			c.AbortWithStatus(http.StatusInternalServerError)
 
 			return err
