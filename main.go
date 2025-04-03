@@ -54,9 +54,9 @@ func main() {
 				return
 			}
 			c.SetSameSite(http.SameSiteNoneMode)
-			c.SetCookie("Authorization", jwrtoken, 3600, "/", "localhost", false, true)
+			c.SetCookie("Authorization", jwrtoken, 3600, "/", "newsloop.xyz", false, true)
 			c.SetSameSite(http.SameSiteLaxMode)
-			c.SetCookie("Authorization", jwrtoken, 3600, "/", "localhost", false, true)
+			c.SetCookie("Authorization", jwrtoken, 3600, "/", "newsloop.xyz", false, true)
 			c.JSON(status, gin.H{
 				"message":       "User signed up successfully",
 				"existing_user": new_status,
