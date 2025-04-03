@@ -447,7 +447,7 @@ func GenerateWithStream(c *gin.Context, db *sql.DB, updates chan<- string, done 
 		updates <- "ERROR: " + err.Error()
 		return
 	}
-
+	// test
 	time.Sleep(2 * time.Second)
 
 	updates <- "Generating Voiceover"
