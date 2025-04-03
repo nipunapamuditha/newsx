@@ -480,3 +480,6 @@ The stakes are high. Canada must confront these issues head-on, from cracking do
 2025/04/03 07:56:11 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
 2025/04/03 07:56:12 requireAuth.go:19: &{{0xc0000be0e0 -1 200} 0xc0003088c0 0xc000328100 [] [0xca7500 0xca8440 0xf41f40 0xf40e60] 3 /v1/getaudio_files 0xc0001656c0 0xc000304018 0xc000304030 {{0 0} 0 0 {{} 0} {{} 0}} map[]  [] map[] map[] 0}
 2025/04/03 07:56:12 requireAuth.go:96: User: {FirstName:Nipuna LastName:Pamuditha Email:nipunapamuditha234@gmail.com UniqueID:a974ca6ffc72a476477a9dca8e2c4ce9092ffc5f}
+2025/04/03 14:57:36 logging.go:18: Application Starting
+2025/04/03 14:57:36 db.go:40: Database Drivier initialized successfully
+2025/04/03 14:57:36 db.go:47: Database connection established successfully

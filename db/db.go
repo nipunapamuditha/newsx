@@ -19,7 +19,7 @@ type Databse_config struct {
 
 func Initialize_database() *sql.DB {
 
-	err := godotenv.Load("E:\\Personal Projects\\newsx_version_3\\.env")
+	err := godotenv.Load(".env")
 	if err != nil {
 		log.Fatalf("Error loading .env file: %v", err)
 	}

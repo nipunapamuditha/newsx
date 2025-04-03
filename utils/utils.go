@@ -10,7 +10,7 @@ import (
 
 func GetEnvVariable(key string) (string, error) {
 
-	errr := godotenv.Load("E:\\Personal Projects\\newsx_version_3\\.env")
+	errr := godotenv.Load(".env")
 	if errr != nil {
 		log.Printf("Error loading .env file: %v", errr)
 		return "", errr
