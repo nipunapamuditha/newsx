@@ -2,7 +2,7 @@ pipeline {
     agent any
     
     tools {
-        go 'go1.23.4' // Use the Go version matching your go.mod
+        go 'go' // Use the Go version matching your go.mod
     }
     
     environment {
