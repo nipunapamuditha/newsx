@@ -53,10 +53,10 @@ func main() {
 				c.JSON(status, gin.H{"error": err.Error()})
 				return
 			}
-			c.SetSameSite(http.SameSiteNoneMode)
-			c.SetCookie("Authorization", jwrtoken, 3600, "/", "demo.newsloop.xyz", true, true)
-			c.SetSameSite(http.SameSiteNoneMode)
-			c.SetCookie("Authorization", jwrtoken, 3600, "/", "demo.newsloop.xyz", true, true)
+			c.SetSameSite(http.SameSiteNoneMode)                                                   // Required for cross-origin cookies
+			c.SetCookie("Authorization", jwrtoken, 3600, "/", "newsxapi.newsloop.xyz", true, true) // Secure=true for HTTPS
+			c.SetSameSite(http.SameSiteNoneMode)                                                   // Required for cross-origin cookies
+			c.SetCookie("Authorization", jwrtoken, 3600, "/", "newsxapi.newsloop.xyz", true, true) // Secure=true for HTTPS
 			c.JSON(status, gin.H{
 				"message":       "User signed up successfully",
 				"existing_user": new_status,
