@@ -26,10 +26,7 @@ func main() {
 	router := gin.Default()
 
 	router.Use(func(c *gin.Context) {
-		origin := c.Request.Header.Get("Origin")
-		if origin == "https://demo.newsloop.xyz" {
-			c.Writer.Header().Set("Access-Control-Allow-Origin", origin)
-		}
+		c.Writer.Header().Set("Access-Control-Allow-Origin", "https://demo.newsloop.xyz")
 		c.Writer.Header().Set("Access-Control-Allow-Credentials", "true")
 		c.Writer.Header().Set("Access-Control-Allow-Methods", "POST, GET, OPTIONS, PUT, DELETE")
 		c.Writer.Header().Set("Access-Control-Allow-Headers", "Accept, Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization")
@@ -57,9 +54,9 @@ func main() {
 				return
 			}
 			c.SetSameSite(http.SameSiteNoneMode)
-			c.SetCookie("Authorization", jwrtoken, 3600, "/", "demo.newsloop.xyz", false, true)
-			c.SetSameSite(http.SameSiteLaxMode)
-			c.SetCookie("Authorization", jwrtoken, 3600, "/", "demo.newsloop.xyz", false, true)
+			c.SetCookie("Authorization", jwrtoken, 3600, "/", "demo.newsloop.xyz", true, true)
+			c.SetSameSite(http.SameSiteNoneMode)
+			c.SetCookie("Authorization", jwrtoken, 3600, "/", "demo.newsloop.xyz", true, true)
 			c.JSON(status, gin.H{
 				"message":       "User signed up successfully",
 				"existing_user": new_status,
