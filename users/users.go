@@ -3,6 +3,7 @@ package users
 import (
 	"context"
 	"database/sql"
+	"strings"
 
 	"fmt"
 
@@ -570,39 +571,57 @@ func DeleteAudioFile(c *gin.Context, db *sql.DB) {
 	// Get user email
 	userEmail := userStruct.Email
 
+	// Parse request body
+	var requestBody struct {
+		ObjectName string `json:"object_name"`
+	}
+
+	if err := c.ShouldBindJSON(&requestBody); err != nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Invalid request format"})
+		return
+	}
+
+	if requestBody.ObjectName == "" {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Object name is required"})
+		return
+	}
+
 	// Configure MinIO client
 	minioEndpoint := "minioapi.newsloop.xyz"
 	bucketName := "newsx"
-	userPrefix := userEmail + "/"
 
 	// Get MinIO credentials from environment variables
 	accessKeyID, err := utils.GetEnvVariable("MINIO_ACCESS_KEY")
 	if err != nil {
 		log.Printf("Error getting MinIO access key: %v", err)
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to get MinIO credentials"})
 		return
 	}
 
 	secretAccessKey, err := utils.GetEnvVariable("MINIO_SECRET_KEY")
 	if err != nil {
 		log.Printf("Error getting MinIO secret key: %v", err)
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to get MinIO credentials"})
 		return
 	}
 
-	objectName := c.Query("object_name")
-
-	if objectName == "" {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "object_name query parameter is required"})
-		return
-	}
-
-	objectKey := userPrefix + objectName
-
+	// Initialize MinIO client
 	minioClient, err := minio.New(minioEndpoint, &minio.Options{
 		Creds:  credentials.NewStaticV4(accessKeyID, secretAccessKey, ""),
 		Secure: true,
 	})
 	if err != nil {
 		log.Printf("Error creating MinIO client: %v", err)
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to connect to storage"})
+		return
+	}
+
+	// The object name already includes the userPrefix in your JSON request
+	objectKey := requestBody.ObjectName
+
+	// Optional: Validate that the object belongs to this user
+	if !strings.HasPrefix(objectKey, userEmail+"/") {
+		c.JSON(http.StatusForbidden, gin.H{"error": "You don't have permission to delete this file"})
 		return
 	}
 
