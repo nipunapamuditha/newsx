@@ -551,4 +551,69 @@ func FetchAudioFiles(c *gin.Context, db *sql.DB) {
 		"audio_files": audioFiles})
 }
 
+func DeleteAudioFile(c *gin.Context, db *sql.DB) {
+	// Get user from the context
+	user, exists := c.Get("user")
+	if !exists {
+		log.Printf("User not found in context")
+		c.JSON(http.StatusUnauthorized, gin.H{"error": "User not found in context"})
+		return
+	}
+
+	userStruct, ok := user.(User)
+	if !ok {
+		log.Printf("User type assertion failed")
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "User type assertion failed"})
+		return
+	}
+
+	// Get user email
+	userEmail := userStruct.Email
+
+	// Configure MinIO client
+	minioEndpoint := "minioapi.newsloop.xyz"
+	bucketName := "newsx"
+	userPrefix := userEmail + "/"
+
+	// Get MinIO credentials from environment variables
+	accessKeyID, err := utils.GetEnvVariable("MINIO_ACCESS_KEY")
+	if err != nil {
+		log.Printf("Error getting MinIO access key: %v", err)
+		return
+	}
+
+	secretAccessKey, err := utils.GetEnvVariable("MINIO_SECRET_KEY")
+	if err != nil {
+		log.Printf("Error getting MinIO secret key: %v", err)
+		return
+	}
+
+	objectName := c.Query("object_name")
+
+	if objectName == "" {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "object_name query parameter is required"})
+		return
+	}
+
+	objectKey := userPrefix + objectName
+
+	minioClient, err := minio.New(minioEndpoint, &minio.Options{
+		Creds:  credentials.NewStaticV4(accessKeyID, secretAccessKey, ""),
+		Secure: true,
+	})
+	if err != nil {
+		log.Printf("Error creating MinIO client: %v", err)
+		return
+	}
+
+	err = minioClient.RemoveObject(context.Background(), bucketName, objectKey, minio.RemoveObjectOptions{})
+	if err != nil {
+		log.Printf("Error deleting object %s: %v", objectKey, err)
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to delete audio file"})
+		return
+	}
+
+	c.JSON(http.StatusOK, gin.H{"message": "Audio file deleted successfully"})
+}
+
 // locally avalible functions for generatenow #########################

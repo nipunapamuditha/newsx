@@ -141,9 +141,6 @@ func main() {
 				}
 			})
 
-			// create autio genertaion flow here
-			// custom deepsek model for voiceover text
-			// custom tts for voicever audio file generateion
 		})
 
 		v1.GET("/getaudio_files", func(c *gin.Context) {
@@ -153,6 +150,15 @@ func main() {
 			}
 			users.FetchAudioFiles(c, database)
 			// show liks to audio files
+		})
+
+		v1.POST("/delete_audiofile", func(c *gin.Context) {
+			if err := middleware.RequireAuth(c, database); err != nil {
+				log.Println(err)
+				return
+			}
+			// impliment delete audio function
+
 		})
 
 	}
