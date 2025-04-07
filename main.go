@@ -157,7 +157,7 @@ func main() {
 				log.Println(err)
 				return
 			}
-			// impliment delete audio function
+			users.DeleteAudioFile(c, database)
 
 		})
 
