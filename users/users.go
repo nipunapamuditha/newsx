@@ -576,6 +576,8 @@ func DeleteAudioFile(c *gin.Context, db *sql.DB) {
 		ObjectName string `json:"object_name"`
 	}
 
+	log.Printf("Request body: %+v", requestBody)
+
 	if err := c.ShouldBindJSON(&requestBody); err != nil {
 		c.JSON(http.StatusBadRequest, gin.H{"error": "Invalid request format"})
 		return
