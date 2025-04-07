@@ -11,6 +11,7 @@ import (
 
 	"log"
 	"net/http"
+	"net/url"
 
 	"cloud.google.com/go/auth/credentials/idtoken"
 	"github.com/dgrijalva/jwt-go"
@@ -584,7 +585,19 @@ func DeleteAudioFile(c *gin.Context, db *sql.DB) {
 	log.Printf("Request body: %+v", requestBody)
 	log.Printf("User email: %s", requestBody.ObjectName)
 
-	if requestBody.ObjectName == "" {
+	log.Printf("Request body: %+v", requestBody)
+
+	// URL decode the object name
+	decodedObjectName, err := url.QueryUnescape(requestBody.ObjectName)
+	if err != nil {
+		log.Printf("Error decoding object name: %v", err)
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Invalid object name format"})
+		return
+	}
+
+	log.Printf("Decoded object name: %s", decodedObjectName)
+
+	if decodedObjectName == "" {
 		c.JSON(http.StatusBadRequest, gin.H{"error": "Object name is required"})
 		return
 	}
@@ -620,7 +633,7 @@ func DeleteAudioFile(c *gin.Context, db *sql.DB) {
 	}
 
 	// The object name already includes the userPrefix in your JSON request
-	objectKey := requestBody.ObjectName
+	objectKey := decodedObjectName
 
 	// Optional: Validate that the object belongs to this user
 	if !strings.HasPrefix(objectKey, userEmail+"/") {
