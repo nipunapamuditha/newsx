@@ -237,7 +237,7 @@ func Generate_script_azure(articles []string) (string, error) {
 			},
 		},
 		MaxTokens: 3000,
-		Model:     "DeepSeek-V3",
+		Model:     "DeepSeek-R1",
 	}
 
 	// Check if the payload is empty
