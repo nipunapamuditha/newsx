@@ -317,6 +317,13 @@ func Generate_script_azure(articles []string) (string, error) {
 		return "", fmt.Errorf("empty script generated")
 	}
 
+	// modify generated script to remove think tag
+	thinkPattern := regexp.MustCompile(`(?s)<think>.*?</think>`)
+	generatedScript = thinkPattern.ReplaceAllString(generatedScript, "")
+
+	// Trim any whitespace that might be left after removing the tags
+	generatedScript = strings.TrimSpace(generatedScript)
+
 	return generatedScript, nil
 }
 
