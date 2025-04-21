@@ -337,7 +337,7 @@ func Generate_audio_file_azure(text string, name string) (bool, error) {
 		return false, fmt.Errorf("AZURE_SPEECH_KEY environment variable not set: %v", err)
 	}
 	serviceRegion := "eastus2"
-	voiceName := "en-US-AndrewNeural"
+	voiceName := "en-US-AndrewNeural-2-DragonHD"
 
 	// Format today's date for filename
 	todayDate := time.Now().Format("2006-01-02")
