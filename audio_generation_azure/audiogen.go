@@ -18,6 +18,9 @@ import (
 	"github.com/nipunapamuditha/NEXO/utils"
 )
 
+// implimentation of dickerdockgo instat search with LLM
+
+
 func Fetach_substack_rss(usernames []string) ([]string, error) {
 	// Slice to store all fetched articles
 	var articles []string

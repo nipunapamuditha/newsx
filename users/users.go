@@ -461,6 +461,7 @@ func GenerateWithStream(c *gin.Context, db *sql.DB, updates chan<- string, done 
 		updates <- "ERROR: " + err.Error()
 		return
 	}
+	time.Sleep(5 * time.Second)
 
 	updates <- "Audio file generated successfully"
 	updates <- "SUCCESS: true"
