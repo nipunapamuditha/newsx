@@ -428,10 +428,12 @@ func Generate_audio_file_azure(text string, name string) (bool, error) {
 	// Verify the object exists before returning success
 	// Add a short delay to allow for any potential consistency issues
 	time.Sleep(500 * time.Millisecond)
+	log.Printf("Verifying uploaded file in MinIO...")
 
 	// Check if the object exists in MinIO
 	_, err = minioClient.StatObject(context.Background(), bucketName, objectName, minio.StatObjectOptions{})
 	if err != nil {
+		log.Printf("Error verifying uploaded file: %v", err)
 		return false, fmt.Errorf("file upload verification failed: %v", err)
 	}
 
