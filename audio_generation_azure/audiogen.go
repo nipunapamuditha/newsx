@@ -20,7 +20,6 @@ import (
 
 // implimentation of dickerdockgo instat search with LLM
 
-
 func Fetach_substack_rss(usernames []string) ([]string, error) {
 	// Slice to store all fetched articles
 	var articles []string
@@ -424,6 +423,16 @@ func Generate_audio_file_azure(text string, name string) (bool, error) {
 	})
 	if err != nil {
 		return false, fmt.Errorf("error uploading to MinIO: %v", err)
+	}
+
+	// Verify the object exists before returning success
+	// Add a short delay to allow for any potential consistency issues
+	time.Sleep(500 * time.Millisecond)
+
+	// Check if the object exists in MinIO
+	_, err = minioClient.StatObject(context.Background(), bucketName, objectName, minio.StatObjectOptions{})
+	if err != nil {
+		return false, fmt.Errorf("file upload verification failed: %v", err)
 	}
 
 	fmt.Printf("Speech synthesized and saved to MinIO: '%s/%s'\n", bucketName, objectName)
