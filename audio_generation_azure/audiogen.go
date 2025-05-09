@@ -431,11 +431,13 @@ func Generate_audio_file_azure(text string, name string) (bool, error) {
 	log.Printf("Verifying uploaded file in MinIO...")
 
 	// Check if the object exists in MinIO
-	_, err = minioClient.StatObject(context.Background(), bucketName, objectName, minio.StatObjectOptions{})
+	xcx, err := minioClient.StatObject(context.Background(), bucketName, objectName, minio.StatObjectOptions{})
 	if err != nil {
 		log.Printf("Error verifying uploaded file: %v", err)
 		return false, fmt.Errorf("file upload verification failed: %v", err)
 	}
+
+	log.Printf("File uploaded successfully: %s, Size: %d bytes", objectName, xcx.Size)
 
 	fmt.Printf("Speech synthesized and saved to MinIO: '%s/%s'\n", bucketName, objectName)
 	return true, nil
