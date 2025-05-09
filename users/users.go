@@ -455,14 +455,15 @@ func GenerateWithStream(c *gin.Context, db *sql.DB, updates chan<- string, done 
 	updates <- "Generating Voiceover"
 
 	status, err := audio_generation_azure.Generate_audio_file_azure(news_script, user_email)
-	log.Printf("Status: %v", status)
+	log.Printf("Audio generation status: %v, error: %v", status, err)
 	if err != nil {
 		log.Printf("Error generating audio: %v", err)
 		updates <- "ERROR: " + err.Error()
 		return
 	}
-	time.Sleep(5 * time.Second)
 
+	// Add explicit success logging
+	log.Printf("Audio generation completed successfully")
 	updates <- "Audio file generated successfully"
 	updates <- "SUCCESS: true"
 
